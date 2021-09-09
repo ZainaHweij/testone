@@ -1,4 +1,4 @@
-## Mad Libs Game for Odyssey Students
+## Student Made Games
 
 You can use the [editor on GitHub](https://github.com/ZainaHweij/madlibs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
